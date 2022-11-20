@@ -1,0 +1,106 @@
+waqar@waqar-Latitude-E6540:~/Downloads/MSG_Passing$ ./chat
+	Welcome! 
+		Enter Your alias name : Waqar
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+You have No Message 
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+History not present for Waqar File
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 1
+Enter chat person name : user1
+Type your text :
+Waqar : Hello
+Waqar : hi
+Waqar : bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+You have No Message 
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message to : user1
+____________________________
+	Hello
+	hi
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 4
+Exiting
+waqar@waqar-Latitude-E6540:~/Downloads/MSG_Passing$ ./chat
+	Welcome! 
+		Enter Your alias name : user1
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+Waqar say's : Hello
+Waqar say's : hi
+Waqar say's : bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message from : Waqar
+____________________________
+	Hello
+	hi
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 1
+Enter chat person name : Waqar
+Type your text :
+user1 : hey
+user1 : bye 
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message from : Waqar
+____________________________
+	Hello
+	hi
+	bye
+____________________________
+Message to : Waqar
+____________________________
+	hey
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 4
+Exiting
+waqar@waqar-Latitude-E6540:~/Downloads/MSG_Passing$ 
+
